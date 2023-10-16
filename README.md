@@ -15,5 +15,5 @@ Save the extracted information to a CSV file.
 The CSV file which will be created will have the following format:
 
  job role,company name,job location,required qualification,experience required,last date,apply link
- Data Analyst,CAW Studios,Hyderabad/Bangalore,BE/B.Tech/ME/M.Tech/CS/MS,2 Years,26 Feb 23,https://www.freshersworld.com/jobs/data-analyst-jobs-opening-in-caw-studios-at-gachibowli-bangalore-hyderabad-1667559
+ eg: Data Analyst,CAW Studios,Hyderabad/Bangalore,BE/B.Tech/ME/M.Tech/CS/MS,2 Years,26 Feb 23,https://www.freshersworld.com/jobs/data-analyst-jobs-opening-in-caw-studios-at-gachibowli-bangalore-hyderabad-1667559
  ....
